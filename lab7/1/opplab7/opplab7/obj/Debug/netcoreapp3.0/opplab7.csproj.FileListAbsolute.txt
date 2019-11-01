@@ -9,3 +9,14 @@ D:\Коледж\4 курс\Гоянюк C#\Конструювання прогр
 D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 7\opplab7\opplab7\obj\Debug\netcoreapp3.0\opplab7.AssemblyInfo.cs
 D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 7\opplab7\opplab7\obj\Debug\netcoreapp3.0\opplab7.dll
 D:\Коледж\4 курс\Гоянюк C#\Конструювання програмного забезпечення\практична 7\opplab7\opplab7\obj\Debug\netcoreapp3.0\opplab7.pdb
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\bin\Debug\netcoreapp3.0\opplab7.exe
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\bin\Debug\netcoreapp3.0\opplab7.deps.json
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\bin\Debug\netcoreapp3.0\opplab7.runtimeconfig.json
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\bin\Debug\netcoreapp3.0\opplab7.runtimeconfig.dev.json
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\bin\Debug\netcoreapp3.0\opplab7.dll
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\bin\Debug\netcoreapp3.0\opplab7.pdb
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\obj\Debug\netcoreapp3.0\opplab7.csprojAssemblyReference.cache
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\obj\Debug\netcoreapp3.0\opplab7.AssemblyInfoInputs.cache
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\obj\Debug\netcoreapp3.0\opplab7.AssemblyInfo.cs
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\obj\Debug\netcoreapp3.0\opplab7.dll
+C:\Users\diman\Documents\GitHub\laboop6\lab7\1\opplab7\opplab7\obj\Debug\netcoreapp3.0\opplab7.pdb

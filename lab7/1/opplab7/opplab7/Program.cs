@@ -14,6 +14,12 @@ namespace igor_oop_lab7
             private string surname;
             private string humandate;
 
+            public human(human obj)
+            {
+                name = obj.name;
+                surname = obj.surname;
+                humandate = obj.humandate;
+            }
             public human()
             {
                 name = "";
@@ -66,6 +72,15 @@ namespace igor_oop_lab7
             private double baldyplom;
             private string zaklad;
 
+            public abityrient(abityrient obj)
+            {
+                set_name(obj.get_name());
+                set_surname(obj.get_surname());
+                set_humandate(obj.get_humandate());
+                baldyplom = obj.baldyplom;
+                balzno = obj.balzno;
+                zaklad = obj.zaklad;
+            }
             public abityrient()
             {
                 set_name("");
@@ -139,6 +154,18 @@ namespace igor_oop_lab7
                 fakultet = "";
                 vn_zaklad = "";
             }
+
+            public student(student obj)
+            {
+                set_name(obj.get_name());
+                set_surname(obj.get_surname());
+                set_humandate(obj.get_humandate());
+
+                kurs = obj.kurs;
+                grupa = obj.grupa;
+                fakultet = obj.fakultet;
+                vn_zaklad = obj.vn_zaklad;
+            }
             public student(string _name, string _surname, string _humandate, int _kurs, string _grupa, string _fakultet, string _vn_zaklad)
             {
                 set_name(_name);
@@ -206,6 +233,18 @@ namespace igor_oop_lab7
                 kafedra = "";
                 vn_zaklad = "";
             }
+
+            public vuklada4(vuklada4 obj)
+            {
+                set_name(obj.get_name());
+                set_surname(obj.get_surname());
+                set_humandate(obj.get_humandate());
+
+                posada = obj.posada;
+                kafedra = obj.kafedra;
+                vn_zaklad = obj.vn_zaklad;
+
+            }
             public vuklada4(string _name, string _surname, string _humandate, string _posada, string _kafedra, string _vn_zaklad)
             {
                 set_name(_name);
@@ -264,6 +303,17 @@ namespace igor_oop_lab7
                 datavuda4i = "";
                 vnesok = 0;
             }
+
+            public korustyva4_biblioteki(korustyva4_biblioteki obj)
+            {
+                set_name(obj.get_name());
+                set_surname(obj.get_surname());
+                set_humandate(obj.get_humandate());
+
+                nomerkvutka = obj.nomerkvutka;
+                datavuda4i = obj.datavuda4i;
+                vnesok = obj.vnesok;
+            }
             public korustyva4_biblioteki(string _name, string _surname, string _humandate, int _nomerkvutka, string _datavuda4i, double _vnesok)
             {
                 set_name(_name);
@@ -312,17 +362,22 @@ namespace igor_oop_lab7
         }
         static void Main(string[] args)
         {
-
+            
             Console.WriteLine("Human");
-            human dimas = new human();
-            dimas.set_info();
+            human dimas = new human("nikitos", "adidas", "11/05/0666");
             dimas.GetInfo();
+            human newhuman = new human(dimas);
 
+            newhuman.GetInfo();
+            
             Console.WriteLine("\nAbityrient");
             abityrient noob = new abityrient();
             noob.set_info();
             noob.GetInfo();
 
+            abityrient noob2 = new abityrient(noob);
+            noob2.GetInfo();
+            
             Console.WriteLine("\nStudent");
             student student1 = new student();
             student1.set_info();
@@ -338,6 +393,7 @@ namespace igor_oop_lab7
             korustyva4_biblioteki_1.set_info();
             korustyva4_biblioteki_1.GetInfo();
             Console.ReadLine();
+            
         }
     }
 }

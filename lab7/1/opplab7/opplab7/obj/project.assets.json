@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Коледж\\4 курс\\Гоянюк C#\\Конструювання програмного забезпечення\\практична 7\\opplab7\\opplab7\\opplab7.csproj",
+      "projectUniqueName": "C:\\Users\\diman\\Documents\\GitHub\\laboop6\\lab7\\1\\opplab7\\opplab7\\opplab7.csproj",
       "projectName": "opplab7",
-      "projectPath": "D:\\Коледж\\4 курс\\Гоянюк C#\\Конструювання програмного забезпечення\\практична 7\\opplab7\\opplab7\\opplab7.csproj",
+      "projectPath": "C:\\Users\\diman\\Documents\\GitHub\\laboop6\\lab7\\1\\opplab7\\opplab7\\opplab7.csproj",
       "packagesPath": "C:\\Users\\diman\\.nuget\\packages\\",
-      "outputPath": "D:\\Коледж\\4 курс\\Гоянюк C#\\Конструювання програмного забезпечення\\практична 7\\opplab7\\opplab7\\obj\\",
+      "outputPath": "C:\\Users\\diman\\Documents\\GitHub\\laboop6\\lab7\\1\\opplab7\\opplab7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diman\\AppData\\Roaming\\NuGet\\NuGet.Config",
