@@ -1,0 +1,9 @@
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\bin\Debug\opp7zavd2window.exe.config
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\bin\Debug\opp7zavd2window.exe
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\bin\Debug\opp7zavd2window.pdb
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\obj\Debug\opp7zavd2window.csprojAssemblyReference.cache
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\obj\Debug\opp7zavd2window.Form1.resources
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\obj\Debug\opp7zavd2window.Properties.Resources.resources
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\obj\Debug\opp7zavd2window.csproj.GenerateResource.cache
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\obj\Debug\opp7zavd2window.exe
+C:\Users\diman\Documents\GitHub\laboop6\lab7\2\opp7zavd2window\opp7zavd2window\obj\Debug\opp7zavd2window.pdb
