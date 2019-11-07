@@ -19,17 +19,17 @@ namespace oop_lab8
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
-
+            one();
         }
 
         private void Form1_Resize(object sender, EventArgs e)
         {
-
+            one();
         }
 
         void one()
@@ -64,8 +64,8 @@ namespace oop_lab8
 
             int stepForAxes = 25;
             int lenghtShtrih = 3;
-            int maxValueForAxesX = 4;
-            int maxValueForAxesY = 9;
+            int maxValueForAxesX = 16;
+            int maxValueForAxesY = 25;
 
             float oneDelenieX = (float)maxValueForAxesX / ((float)center.X / (float)stepForAxes);
 
@@ -92,13 +92,13 @@ namespace oop_lab8
 
             for(int i = 0; i < numOfPoint; i++)
             {
-                first[i] = (float)maxValueForAxesX / (float)numOfPoint * (i + 1) - (float)(maxValueForAxesX / 2);
+                first[i] = (float)maxValueForAxesX / (float)numOfPoint * (i + 1) - 6;
             }
 
             float[] second = new float[numOfPoint]; 
             for(int i = 0; i< numOfPoint; i++)
             {
-
+                second[i] = (float)(Math.Pow(Math.E, first[i] /2)*Math.Sin(2 *first[i]));
             }
 
             Point[] pointOne = new Point[numOfPoint];
